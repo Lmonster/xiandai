@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7e5821d-b5ad-4344-ac51-a4a5847ba01d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/Images.xcassets/AppIcon.appiconset/120-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/Images.xcassets/AppIcon.appiconset/120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/Images.xcassets/AppIcon.appiconset/180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/Images.xcassets/AppIcon.appiconset/58.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/Images.xcassets/AppIcon.appiconset/80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/Images.xcassets/AppIcon.appiconset/87.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/LaunchImage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/Images.xcassets/LaunchImage.launchimage/LaunchImage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line1 up png/button0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line1 down/button0S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line1 up png/button1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line3 up png/button10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line3 down/button10S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line3 up png/button11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line3 down/button11S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line3 up png/button12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line3 down/button12S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line3 up png/button13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line3 down/button13S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/button14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line3 down/button14S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line4 up png/button15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line4 down/button15S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line4 up png/button16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line4 down/button16S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line4 up png/button17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line4 down/button17S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line4 up png/button18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line4 down/button18S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/button19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line4 down/button19S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line1 down/button1S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line1 up png/button2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line5 up png/button20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line5 down/button20S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line5 up png/button21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line5 down/button21S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line5 up png/button22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line5 down/button22S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line5 up png/button23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line5 down/button23S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/button24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line5 down/button24S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line6 up png/button25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line6 down/button25S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line6 up png/button26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line6 down/button26S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line6 up png/button27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line6 down/button27S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line6 up png/button28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line6 down/button28S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line6 up png/button29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line6 down/button29S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line1 down/button2S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line1 up png/button3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line1 down/button3S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line1 up png/button4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line1 down/button4S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line2 up png/button5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line2 down/button5S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line2 up png/button6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line2 down/button6S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line2 up png/button7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line2 down/button7S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line2 up png/button8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line2 down/button8S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/button9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/计算器按钮 png/line2 down/button9S.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/guide.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/guide_for_iPhone5_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/guide_for_iPhone5_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/guide_for_iPhone5_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/guide_for_iPhone5_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/guide_for_iPhone6_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/guide_for_iPhone6_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/guide_for_iPhone6_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/guide_for_iPhone6_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/headDefaultImage1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/headDefaultImage2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/icon1_1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_2/icon1_2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_3/icon1_3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_4/icon1_4@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_5/icon1_5@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_6/icon1_6@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/icon2_1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_2/icon2_2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_3/icon2_3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_4/icon2_4@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_5/icon2_5@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_6/icon2_6@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/icon3_1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_2/icon3_2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_3/icon3_3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_4/icon3_4@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_5/icon3_5@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_6/icon3_6@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/icon4_1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_2/icon4_2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_3/icon4_3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_4/icon4_4@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_5/icon4_5@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_6/icon4_6@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/icon5_1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_2/icon5_2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_3/icon5_3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_4/icon5_4@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_5/icon5_5@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_6/icon5_6@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/icon6_1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_2/icon6_2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_3/icon6_3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_4/icon6_4@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_5/icon6_5@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/DefaultIcon_6/icon6_6@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/baiduStata/libBaiduMobStat.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libMobClickLibrary.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/mainIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/preView_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/preView_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/preView_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/preView_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/qq_mail.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/test.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/测试习题/test0.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/测试习题/test1.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/test2.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/测试习题/test2.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/测试习题/test3.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/测试习题/test4.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/测试习题/test5.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/测试习题/test6.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/testData.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/测试习题/test_answer.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/刘建强.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/刘振华.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/Images.xcassets/LaunchImage.launchimage/开始01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/张友乐.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/张海琴.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/张鹏鸽.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/陈怀琛.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/马建荣.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/高淑萍.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFHTTPRequestOperation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFHTTPRequestOperation.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFHTTPRequestOperationManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFHTTPRequestOperationManager.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFHTTPSessionManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFHTTPSessionManager.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFNetworkReachabilityManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFNetworkReachabilityManager.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFNetworking.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFSecurityPolicy.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFSecurityPolicy.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFURLConnectionOperation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFURLConnectionOperation.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFURLRequestSerialization.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFURLRequestSerialization.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFURLResponseSerialization.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFURLResponseSerialization.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFURLSessionManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AFNetworking/AFURLSessionManager.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AVplayControl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AVplayControl.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Geometry/AlignedBox.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Geometry/AlignedBox.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Geometry/All.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/AmbiVector.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/OrderingMethods/Amd.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Geometry/AngleAxis.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Geometry/AngleAxis.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Array.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/ArrayBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/plugins/ArrayCwiseBinaryOps.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/plugins/ArrayCwiseUnaryOps.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/ArrayWrapper.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/Array" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Assign.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Assign_MKL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/baiduStata/BaiduMobStat.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/BandMatrix.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SMTPLibrary/Base64Transcoder.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SMTPLibrary/Base64Transcoder.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/IterativeLinearSolvers/BasicPreconditioners.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/IterativeLinearSolvers/BiCGSTAB.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/util/BlasUtil.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Block.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Block.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Householder/BlockHouseholder.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/plugins/BlockMethods.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/BooleanRedux.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Cholesky/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/CholmodSupport/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/arch/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/arch/AltiVec/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/arch/Default/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/arch/NEON/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/arch/SSE/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/util/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Geometry/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigenvalues/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Geometry/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Geometry/arch/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Householder/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/IterativeLinearSolvers/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Jacobi/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/LU/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/LU/arch/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/MetisSupport/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/OrderingMethods/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/PaStiXSupport/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/PardisoSupport/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/QR/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SPQRSupport/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SVD/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCholesky/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseLU/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseQR/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/StlSupport/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SuperLUSupport/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/UmfPackSupport/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/misc/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/plugins/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Caculation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Caculation.mm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalculationViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/Cholesky" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/CholmodSupport/CholmodSupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/CholmodSupport" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/CoeffBasedProduct.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/QR/ColPivHouseholderQR.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/QR/ColPivHouseholderQR_MKL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/CommaInitializer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/plugins/CommonCwiseBinaryOps.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/plugins/CommonCwiseUnaryOps.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Commons.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/arch/AltiVec/Complex.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/arch/NEON/Complex.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/arch/SSE/Complex.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigenvalues/ComplexEigenSolver.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigenvalues/ComplexSchur.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigenvalues/ComplexSchur_MKL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/CompressedStorage.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/IterativeLinearSolvers/ConjugateGradient.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/ConservativeSparseSparseProduct.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ConstantHeader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/util/Constants.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/Images.xcassets/LaunchImage.launchimage/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/CoreIterators.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/Core" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Cwise.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/CwiseBinaryOp.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/CwiseNullaryOp.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/CwiseOperators.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/CwiseUnaryOp.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/CwiseUnaryView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/DenseBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/DenseCoeffsBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/DenseStorage.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/Dense" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/LU/Determinant.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Diagonal.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/DiagonalMatrix.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/DiagonalProduct.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/util/DisableStupidWarnings.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Dot.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DownLoadHelper.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DownLoadHelper.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DownloadCoursewareViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DownloadCoursewareViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ECoursewareViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ECoursewareViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/Eigen2Support" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/EigenBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigenvalues/EigenSolver.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/Eigen" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/OrderingMethods/Eigen_Colamd.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/Eigenvalues" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Geometry/EulerAngles.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExerciseViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExerciseViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Flagged.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/ForceAlignedAccess.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ForumTSViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ForumTSViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ForumViewSSController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ForumViewSSController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/util/ForwardDeclarations.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/QR/FullPivHouseholderQR.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/LU/FullPivLU.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Functors.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Fuzzy.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/GeneralBlockPanelKernel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/GeneralMatrixMatrix.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/GeneralMatrixMatrixTriangular.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/GeneralMatrixMatrixTriangular_MKL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/GeneralMatrixMatrix_MKL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/GeneralMatrixVector.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/GeneralMatrixVector_MKL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/GeneralProduct.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigenvalues/GeneralizedEigenSolver.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigenvalues/GeneralizedSelfAdjointEigenSolver.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/GenericPacketMath.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/Geometry" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Geometry/arch/Geometry_SSE.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/GlobalFunctions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SMTPLibrary/HSK_CFUtilities.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SMTPLibrary/HSK_CFUtilities.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Header.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigenvalues/HessenbergDecomposition.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Geometry/Homogeneous.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Householder/Householder.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/QR/HouseholderQR.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/QR/HouseholderQR_MKL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Householder/HouseholderSequence.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/Householder" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Geometry/Hyperplane.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Geometry/Hyperplane.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/IO.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/misc/Image.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/IterativeLinearSolvers/IncompleteLUT.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/en.lproj/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/LU/Inverse.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/LU/arch/Inverse_SSE.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/IterativeLinearSolvers" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/IterativeLinearSolvers/IterativeSolverBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Jacobi/Jacobi.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SVD/JacobiSVD.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SVD/JacobiSVD_MKL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/Jacobi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/misc/Kernel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Cholesky/LDLT.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Cholesky/LLT.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Cholesky/LLT_MKL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/LU.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/LU" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/zh-Hans.lproj/LaunchScreen.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Lazy.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/LeastSquares.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/LeastSquares" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/util/MKL_support.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/util/Macros.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Macros.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Map.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/MapBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/MappedSparseMatrix.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/MathFunctions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/arch/SSE/MathFunctions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/MathFunctions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Matrix.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/MatrixBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigenvalues/MatrixBaseEigenvalues.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/plugins/MatrixCwiseBinaryOps.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/plugins/MatrixCwiseUnaryOps.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/util/Memory.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Memory.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/util/Meta.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Meta.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/MetisSupport/MetisSupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/MetisSupport" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Minor.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MobClick.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SMTPLibrary/NSData+Base64Additions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SMTPLibrary/NSData+Base64Additions.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SMTPLibrary/NSStream+SKPSMTPExtensions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SMTPLibrary/NSStream+SKPSMTPExtensions.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/NestByValue.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/NoAlias.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/util/NonMPL2.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/NumTraits.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/OrderingMethods/Ordering.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/OrderingMethods" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Geometry/OrthoMethods.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PDFDrawer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PDFDrawer.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PDFFileHelper.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PDFFileHelper.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PDFVeiw.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PDFVeiw.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PDFViewContoller.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PDFViewContoller.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/PaStiXSupport/PaStiXSupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/PaStiXSupport" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/arch/AltiVec/PacketMath.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/arch/NEON/PacketMath.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/arch/SSE/PacketMath.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/Parallelizer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Geometry/ParametrizedLine.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Geometry/ParametrizedLine.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/PardisoSupport/PardisoSupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/PardisoSupport" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/LU/PartialPivLU.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/LU/PartialPivLU_MKL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/PermutationMatrix.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PicExperienceViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PicExperienceViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/PlainObjectBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PlayerLayer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PlayerLayer.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/ProductBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/QR.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/QR" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/QtAlignedMalloc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Geometry/Quaternion.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Geometry/Quaternion.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Random.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigenvalues/RealQZ.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigenvalues/RealSchur.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigenvalues/RealSchur_MKL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Redux.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/util/ReenableStupidWarnings.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Ref.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Replicate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/ReturnByValue.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Reverse.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Geometry/Rotation2D.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Geometry/Rotation2D.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Geometry/RotationBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Geometry/RotationBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SMTPLibrary/SKPSMTPMessage.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SMTPLibrary/SKPSMTPMessage.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/SPQRSupport" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/SVD.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/SVD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Geometry/Scaling.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Geometry/Scaling.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Select.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigenvalues/SelfAdjointEigenSolver.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigenvalues/SelfAdjointEigenSolver_MKL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/SelfAdjointView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/SelfCwiseBinaryOp.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/SelfadjointMatrixMatrix.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/SelfadjointMatrixMatrix_MKL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/SelfadjointMatrixVector.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/SelfadjointMatrixVector_MKL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/SelfadjointProduct.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/SelfadjointRank2Update.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/arch/Default/Settings.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCholesky/SimplicialCholesky.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCholesky/SimplicialCholesky_impl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/misc/Solve.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/SolveTriangular.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseBlock.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/SparseCholesky" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseColEtree.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/SparseCore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseCwiseBinaryOp.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseCwiseUnaryOp.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseDenseProduct.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseDiagonalProduct.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseDot.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseFuzzy.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseLU/SparseLU.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseLU/SparseLUImpl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/SparseLU" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseLU/SparseLU_Memory.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseLU/SparseLU_Structs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseLU/SparseLU_SupernodalMatrix.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseLU/SparseLU_Utils.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseLU/SparseLU_column_bmod.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseLU/SparseLU_column_dfs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseLU/SparseLU_copy_to_ucol.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseLU/SparseLU_gemm_kernel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseLU/SparseLU_heap_relax_snode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseLU/SparseLU_kernel_bmod.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseLU/SparseLU_panel_bmod.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseLU/SparseLU_panel_dfs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseLU/SparseLU_pivotL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseLU/SparseLU_pruneL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseLU/SparseLU_relax_snode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseMatrix.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseMatrixBase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparsePermutation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseProduct.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseQR/SparseQR.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/SparseQR" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseRedux.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseSelfAdjointView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/misc/SparseSolve.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseSparseProductWithPruning.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseTranspose.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseTriangularView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseUtil.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseVector.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/SparseView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/Sparse" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/StableNorm.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/util/StaticAssert.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/StlSupport/StdDeque.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/StdDeque" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/StlSupport/StdList.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/StdList" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/StlSupport/StdVector.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/StdVector" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Stride.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SPQRSupport/SuiteSparseQRSupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SuperLUSupport/SuperLUSupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/SuperLUSupport" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Swap.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TBCircularSlider.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TBCircularSlider.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TSTableViewCell.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TSTableViewCell.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/TopNavigationViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/TopNavigationViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Geometry/Transform.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Geometry/Transform.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/Geometry/Translation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Geometry/Translation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Transpose.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Transpositions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/TriangularMatrix.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/TriangularMatrixMatrix.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/TriangularMatrixMatrix_MKL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/TriangularMatrixVector.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/TriangularMatrixVector_MKL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/TriangularSolver.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SparseCore/TriangularSolver.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/TriangularSolverMatrix.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/TriangularSolverMatrix_MKL.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/products/TriangularSolverVector.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigenvalues/Tridiagonalization.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Geometry/Umeyama.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/UmfPackSupport/UmfPackSupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/UmfPackSupport" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/SVD/UpperBidiagonalization.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/VectorBlock.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Eigen2Support/VectorBlock.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/VectorwiseOp.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/Visitor.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/Core/util/XprHelper.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anglePicker.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/anglePicker.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/misc/blas.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/courseIntroduction.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/courseIntroductionViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/courseIntroductionViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Eigen/src/StlSupport/details.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/downLoadTableViewCell.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/downLoadTableViewCell.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawerView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/drawerView.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guideViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guideViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/keyBoardView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/keyBoardView.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loadPDFViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loadPDFViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/matrixView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/matrixView.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/new_LinearAlgebra.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_drawer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_drawer.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playVedioViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playVedioViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/selectLineAndRow.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/selectLineAndRow.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subPlaycontrolView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subPlaycontrolView.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/suggestViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/suggestViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teacherInfoViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teacherInfoViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/xcode.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/刘建强.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/刘振华.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/张友乐.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/张海琴.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/张鹏鸽.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/陈怀琛.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/马建荣.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new_LinearAlgebra/高淑萍.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new_LinearAlgebra.xcodeproj/xcuserdata/fuguoqiang.xcuserdatad/xcschemes/new_LinearAlgebra.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new_LinearAlgebra/Base.lproj/Main.storyboard" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/new_LinearAlgebra/Info.plist" afterPath="$PROJECT_DIR$/new_LinearAlgebra/zh-Hans.lproj/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/new_LinearAlgebra/AppDelegate.h" afterPath="$PROJECT_DIR$/new_LinearAlgebra/AppDelegate.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/new_LinearAlgebra/AppDelegate.m" afterPath="$PROJECT_DIR$/new_LinearAlgebra/AppDelegate.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/new_LinearAlgebra/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/new_LinearAlgebra/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/new_LinearAlgebra/Base.lproj/LaunchScreen.xib" afterPath="$PROJECT_DIR$/new_LinearAlgebra/Base.lproj/LaunchScreen.xib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/new_LinearAlgebra/ViewController.h" afterPath="$PROJECT_DIR$/new_LinearAlgebra/ViewController.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/new_LinearAlgebra/ViewController.m" afterPath="$PROJECT_DIR$/new_LinearAlgebra/ViewController.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/new_LinearAlgebra/main.m" afterPath="$PROJECT_DIR$/new_LinearAlgebra/main.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/new_LinearAlgebra.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/new_LinearAlgebra.xcodeproj/project.pbxproj" />
+    </list>
+    <ignored path="new_LinearAlgebra.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_4ba73d34481756c9129f9c6966f6903f9f2ee177" />
+  <component name="FavoritesManager">
+    <favorites_list name="new_LinearAlgebra" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ConstantHeader.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConstantHeader.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="650">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalculationViewController.m" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CalculationViewController.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="9.01073" vertical-offset="0" max-vertical-offset="4459">
+              <caret line="323" column="65" selection-start-line="323" selection-start-column="65" selection-end-line="323" selection-end-column="65" />
+              <folding>
+                <element signature="e#171#208#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/CalculationViewController.m" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="15" />
+    <option name="y" value="23" />
+    <option name="width" value="1400" />
+    <option name="height" value="806" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Cidr.FilesView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="new_LinearAlgebra" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="new_LinearAlgebra" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MainClass" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="new_LinearAlgebra" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lib" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="new_LinearAlgebra" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Header" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.new_LinearAlgebra">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="new_LinearAlgebra" TARGET_NAME="new_LinearAlgebra" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="new_LinearAlgebra" RUN_TARGET_NAME="new_LinearAlgebra" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="new_LinearAlgebra" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="new_LinearAlgebra" TARGET_NAME="new_LinearAlgebra" CONFIG_NAME="Debug" SCHEME_NAME="new_LinearAlgebra" RUN_TARGET_PROJECT_NAME="new_LinearAlgebra" RUN_TARGET_NAME="new_LinearAlgebra" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs>
+        <env name="NSAutoreleaseFreedObjectCheckEnabled" value="YES" />
+        <env name="NSZombieEnabled" value="YES" />
+        <env name="NSDebugEnabled" value="YES" />
+      </envs>
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.new_LinearAlgebra" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7e5821d-b5ad-4344-ac51-a4a5847ba01d" name="Default" comment="" />
+      <created>1428564274614</created>
+      <option name="number" value="Default" />
+      <updated>1428564274614</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="15" y="23" width="1400" height="806" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32971507" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ConstantHeader.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="709">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Header.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="709">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalculationViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="9.01073" vertical-offset="0" max-vertical-offset="4459">
+          <caret line="323" column="65" selection-start-line="323" selection-start-column="65" selection-end-line="323" selection-end-column="65" />
+          <folding>
+            <element signature="e#171#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

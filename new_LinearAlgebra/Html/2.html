@@ -1,0 +1,274 @@
+<html>
+    
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+        />
+        <meta http-equiv=Content-Type content="text/html; charset=utf-8">
+        <title>
+            线性代数
+        </title>
+        <style type="text/css">
+            p{font-family: 宋体;font-size: 16px; line-height: 1.5;padding: 5px;} img{border:
+            0}
+        </style>
+    </head>
+    
+    <body>
+        <h1>
+                第二章 行列式
+            </h1>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    1
+                </b>
+                <b>
+                    ：
+                </b>
+                爪形行列式如何计算？
+            </p>
+            <p>
+                <b>
+                    答：
+                </b>
+                形如
+                <img src="image077.gif">
+                的行列式，亦可叙述为除第 1 行，第 1 列和主对角线上元素外，其余元素全为零的行列式，其形状像个 “ 爪 ” ，是一类很有特点的行列式。如
+                <img src="image078.gif">
+                这是个
+                <img src="image079.gif">
+                阶行列式，对它求解需对
+                <img src="image080.gif">
+                中 0 的个数分情况进行讨论：
+            </p>
+            <p>
+                情况 1 ：
+                <img src="image080.gif">
+                中若有两个或两个以上为 0 。
+            </p>
+            <p>
+                利用行列式的性质（两行成比例），可知行列式为 0 ；
+            </p>
+            <p>
+                情况 2 ：
+                <img src="image080.gif">
+                中只有一个为 0 ，不妨设
+                <img src="image081.gif">
+            </p>
+            <p>
+                <img src="image082.gif">
+            </p>
+            <p>
+                情况 3 ：
+                <img src="image080.gif">
+                全不为 0
+                <img src="image083.gif">
+            </p>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    2
+                </b>
+                <b>
+                    ：
+                </b>
+                具有什么特征的行列式的求解适合用递推法？用递推法解题时要注意什么？
+            </p>
+            <p>
+                <b>
+                    答：
+                </b>
+                通常情况下，对三对角行列式，采用递推法容易一些，所谓三对角行列式是指除对角线及主对角线上下两条斜线的元素外，其余元素全为 0 的行列式。
+            </p>
+            <p>
+                采用递推法是因为这类行列式有较多的 0 ，不必刻意消 0 ，而是直接按行或列展开，尽快得到递推式。当然这类问题的关键点是找到正确的递推关系。另外遇到三对角行列式的证明题目，也可用递推法求证。
+            </p>
+            <p>
+                <b>
+                    例
+                </b>
+                计算
+                <img src="image084.gif">
+            </p>
+            <p>
+                <b>
+                    解：
+                </b>
+                <b>
+                </b>
+                记上述
+                <img src="image052.gif">
+                阶行列式为
+                <img src="image085.gif">
+                ，按第 1 行展开，得
+            </p>
+            <p>
+                <img src="image086.gif">
+            </p>
+            <p>
+                移项，整理：
+                <img src="image087.gif">
+            </p>
+            <p>
+                而
+                <img src="image088.gif">
+            </p>
+            <p>
+                故
+                <img src="image089.gif">
+            </p>
+            <p>
+                这又是一个递推公式，于是有：
+            </p>
+            <p>
+                <img src="image090.gif">
+            </p>
+            <p>
+                对于这一串公式，第 2 个式子乘
+                <img src="image091.gif">
+                , 第 3 个式子乘
+                <img src="image092.gif">
+                ,……, 最后一个式子乘
+                <img src="image093.gif">
+                ，然后加起来，得到
+            </p>
+            <p>
+                <img src="image094.gif">
+            </p>
+            <p>
+                由
+                <img src="image095.gif">
+                ，故
+            </p>
+            <p>
+                <img src="image096.gif">
+            </p>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    3
+                </b>
+                <b>
+                    ：
+                </b>
+                如果线性方程组的系数矩阵的行列式等于 0 ，能否证明非齐次线性方程组有无穷多解？
+            </p>
+            <p>
+                <b>
+                    答：
+                </b>
+                由于 Crame 法则明确告诉大家，对于方程个数和未知量个数相同的方程组，方程组的系数行列式不等于 0 是方程组有唯一解的充要条件。并没有回答系数行列式等于
+                0 时，方程组解的情况。针对这一情况，第三章中关于方程组的结构理论中会专门讨论无解和有解的情况。
+            </p>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    4
+                </b>
+                <b>
+                    ：
+                </b>
+                Crame 法则推广到齐次线性方程组会有什么结果？
+            </p>
+            <p>
+                <b>
+                    答：
+                </b>
+                对于齐次线性方程组而言，不存在无解的情况，因为零解必是其一解。因此对于齐次线性方程组，只有唯一解和无穷多解这两种可能，显然唯一解即为零解，无穷多解即为非零解。可见，
+                Crame 法则推广到齐次线性方程组
+            </p>
+            <p>
+                <img src="image097.gif">
+            </p>
+            <p>
+                或
+                <img src="image098.gif">
+                其中
+                <img src="image099.gif">
+            </p>
+            <p>
+                有唯一解的充要条件是
+                <img src="image100.gif">
+                ，即
+                <img src="image001.gif">
+                可逆；
+            </p>
+            <p>
+                有无穷多解的充要条件是
+                <img src="image101.gif">
+                ，即
+                <img src="image001.gif">
+                不可逆。
+            </p>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    5
+                </b>
+                <b>
+                    ：
+                </b>
+                行列式在矩阵问题中有哪些应用？
+            </p>
+            <p>
+                <b>
+                    答：
+                </b>
+                行列式看似是一个计算问题，其实还有很多方面的应用。比如，行列式可用来判断向量组的线性相关性。可用来求矩阵的特征值，可以判断二次型的类型等等，针对矩阵问题，行列式的应用可归纳如下：
+            </p>
+            <p>
+                l
+                <img src="image102.gif">
+                ，其中
+                <img src="image103.gif">
+                均为
+                <img src="image052.gif">
+                阶矩阵，即矩阵乘积的行列式等于矩阵行列式的乘积；
+            </p>
+            <p>
+                l
+                <img src="image104.gif">
+                可逆 （可用来判断矩阵是否可逆）；
+            </p>
+            <p>
+                l
+                <img src="image105.gif">
+                （可用来求逆矩阵）；
+            </p>
+            <p>
+                l
+                <img src="image106.gif">
+                （数乘矩阵的行列式）；
+            </p>
+            <p>
+                l
+                <img src="image107.gif">
+                （求逆矩阵的行列式）；
+            </p>
+            <p>
+                l
+                <img src="image108.gif">
+                （求伴随矩阵的行列式）；
+            </p>
+            <p>
+                l
+                <img src="image109.gif">
+                （
+                <img src="image110.gif">
+                为矩阵
+                <img src="image001.gif">
+                中不为 0 的姿势的最高阶数）。
+            </p>
+    </body>
+
+</html>

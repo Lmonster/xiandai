@@ -1,0 +1,355 @@
+<html>
+    
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+        />
+        <meta http-equiv=Content-Type content="text/html; charset=utf-8">
+        <title>
+            线性代数
+        </title>
+        <style type="text/css">
+            p{font-family: 宋体;font-size: 16px; line-height: 1.5;padding: 5px;} img{border:
+            0}
+        </style>
+    </head>
+    
+    <body>
+        <h1>
+                第六章 二次型
+            </h1>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    1
+                </b>
+                <b>
+                    ：
+                </b>
+                矩阵的三种变换辨析：
+            </p>
+            <p>
+                <b>
+                    答：
+                </b>
+                （ 1 ） 两个矩阵等价：
+                <img src="image206.gif">
+                和
+                <img src="image238.gif">
+                等价，即表示为
+                <img src="image249.gif">
+                ；
+                <img src="image250.gif">
+                是同型矩阵；满足，
+                <img src="image251.gif">
+                ，即将
+                <img src="image206.gif">
+                通过行初等变化和列初等变换后得到
+                <img src="image238.gif">
+                的矩阵，其中
+                <img src="image252.gif">
+                。
+            </p>
+            <p>
+                （2） 两个矩阵相似：
+                <img src="image206.gif">
+                和
+                <img src="image238.gif">
+                相似，即表示为
+                <img src="image253.gif">
+                ；
+                <img src="image250.gif">
+                是
+                <img src="image237.gif">
+                阶方阵 ；满足，
+                <img src="image254.gif">
+                ， 即也
+                <img src="image249.gif">
+                ，其中，
+                <img src="image252.gif">
+                、
+                <img src="image243.gif">
+            </p>
+            <p>
+                （3） 两个矩阵合同：
+                <img src="image206.gif">
+                和
+                <img src="image238.gif">
+                合同，即表示为
+                <img src="image255.gif">
+                ；
+                <img src="image250.gif">
+                是
+                <img src="image237.gif">
+                阶方阵 ；满足，
+                <img src="image256.gif">
+                ， 即也
+                <img src="image249.gif">
+                ，其中，
+                <img src="image252.gif">
+            </p>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    2
+                </b>
+                <b>
+                    ：
+                </b>
+                正交变换与一般可逆变换得到的标准型的不同点和相同点：
+            </p>
+            <p>
+                <b>
+                    答：不同点：
+                </b>
+                <br>
+                i) 正交变换得到的实二次型的标准形：对角线元素是实对称阵的特征值；且标准形在不计特征值顺序时是唯一的。
+            </p>
+            <p>
+                ii) 可逆线性变换得到的实二次型的标准形：对角元素不一定是实对称阵的特征值，且其形式也不唯一。
+            </p>
+            <p>
+                <b>
+                    相同点：
+                </b>
+            </p>
+            <p>
+                i) 平方项中非零项的个数相同
+            </p>
+            <p>
+                ii) 平方项中正（负）项的个数相同
+            </p>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    3
+                </b>
+                <b>
+                    ：
+                </b>
+                <b>
+                </b>
+                判断三个矩阵那些相似？哪些合同？
+                <img src="image257.gif">
+            </p>
+            <p>
+                i.
+                <img src="image206.gif">
+                是对角阵，
+                <img src="image206.gif">
+                是上三角阵，且有 3 个互异特征值与
+                <img src="image206.gif">
+                相同，所以
+                <img src="image238.gif">
+                可以相似对角阵为
+                <img src="image206.gif">
+                。即
+                <img src="image206.gif">
+                与
+                <img src="image238.gif">
+                相似。
+            </p>
+            <p>
+                ii. 因为
+                <img src="image206.gif">
+                是对角阵，所以与
+                <img src="image206.gif">
+                合同的矩阵必然是对称阵，而
+                <img src="image238.gif">
+                不是对称阵，
+                <img src="image206.gif">
+                与
+                <img src="image238.gif">
+                不合同。
+            </p>
+            <p>
+                iii. 又因为
+                <img src="image258.gif">
+                得
+                <img src="image259.gif">
+                ，
+                <img src="image260.gif">
+                是又实对称矩阵 , 所以存在正交矩阵
+                <img src="image261.gif">
+                ，使得
+                <img src="image262.gif">
+                <img src="image260.gif">
+                与
+                <img src="image206.gif">
+                既相似又合同，在由传递性可知 ,
+                <img src="image260.gif">
+                与
+                <img src="image238.gif">
+                也相似。但
+                <img src="image260.gif">
+                与
+                <img src="image238.gif">
+                不合同，
+                <br>
+                因为
+                <img src="image260.gif">
+                是对称阵，与对称阵合同的矩阵必然是对称阵，而
+                <img src="image238.gif">
+                不是对称阵，
+                <br>
+                所以
+                <img src="image260.gif">
+                与
+                <img src="image238.gif">
+                不合同。
+            </p>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    4
+                </b>
+                <b>
+                    ：
+                </b>
+                设
+                <img src="image206.gif">
+                是
+                <img src="image237.gif">
+                阶实对称矩阵，
+                <img src="image263.gif">
+                是正定矩阵，证明
+                <img src="image206.gif">
+                可逆。
+            </p>
+            <p>
+                <b>
+                    证明：
+                </b>
+                任意
+                <img src="image264.gif">
+                ，由于
+                <img src="image263.gif">
+                正定，总有
+                <img src="image265.gif">
+            </p>
+            <p>
+                因此 , 对任意
+                <img src="image264.gif">
+                ，恒有
+                <img src="image266.gif">
+                ，即齐次方程组
+                <img src="image267.gif">
+                只有零解，所以，
+                <img src="image206.gif">
+                可逆。
+            </p>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    5
+                </b>
+                <b>
+                    ：
+                </b>
+                用正交变换化普通二次型为标准形的步骤及其正交变换，并举例说明。
+            </p>
+            <p>
+                <b>
+                    答：
+                </b>
+                步骤： 1 ）、将二次型的矩阵表示；
+            </p>
+            <p>
+                2 ）、求出二次型矩阵
+                <img src="image206.gif">
+                的特征值及其对应的特征向量。
+            </p>
+            <p>
+                分别讨论特征值对应的特征向量，
+            </p>
+            <p>
+                将重根对应的特征向量正交化单位化，
+                <br>
+                将单根特征值对应的特征向量单位化，
+            </p>
+            <p>
+                3 ）、由标准型中特征值的位置决定的，由 2 ）步中算出的单位正交向量的列构成矩阵
+                <img src="image240.gif">
+                。
+            </p>
+            <p>
+                4 ）、写出二次型在正交变换下化成的标准形。
+            </p>
+            <p>
+                <b>
+                    例：
+                </b>
+                设二次型为
+                <img src="image268.gif">
+                。
+            </p>
+            <p>
+                <b>
+                    解：
+                </b>
+                1 ）、其二次型矩阵为：
+            </p>
+            <p>
+                <img src="image269.gif">
+            </p>
+            <p>
+                2 ）、求出
+                <img src="image206.gif">
+                所对应的特征值
+                <img src="image270.gif">
+            </p>
+            <p>
+                <img src="image271.gif">
+                单位化得
+                <img src="image272.gif">
+                ；
+            </p>
+            <p>
+                <img src="image273.gif">
+                单位化得
+                <img src="image274.gif">
+                ；
+                <br>
+                <img src="image275.gif">
+                单位化得
+                <img src="image276.gif">
+                ；
+            </p>
+            <p>
+                3 ）、构建以
+                <img src="image277.gif">
+                为列向量的矩阵
+            </p>
+            <p>
+                <img src="image278.gif">
+            </p>
+            <p>
+                则，
+                <img src="image279.gif">
+            </p>
+            <p>
+                得正交变换
+                <img src="image280.gif">
+                ，即
+            </p>
+            <p>
+                <img src="image281.gif">
+            </p>
+            <p>
+                4 ）、 二次型在正交变换下化成的标准形。
+            </p>
+            <p>
+                <img src="image282.gif">
+            </p>
+    </body>
+
+</html>

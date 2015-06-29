@@ -1,0 +1,344 @@
+<html>
+    
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+        />
+        <meta http-equiv=Content-Type content="text/html; charset=utf-8">
+        <title>
+            线性代数
+        </title>
+        <style type="text/css">
+            p{font-family: 宋体;font-size: 16px; line-height: 1.5;padding: 5px;} img{border:
+            0}
+        </style>
+    </head>
+    
+    <body>
+       	<h1>
+                第五章 相似矩阵
+            </h1>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    1
+                </b>
+                <b>
+                    ：
+                </b>
+                一种证明矩阵相异特征值对应的特征向量线性无关的方法。
+            </p>
+            <p>
+                <b>
+                    例：
+                </b>
+                设
+                <img src="image204.gif">
+                是
+                <img src="image205.gif">
+                矩阵
+                <img src="image206.gif">
+                的相异的特征值，
+                <img src="image207.gif">
+                分别是从属于特征值
+                <img src="image204.gif">
+                的特征向量，证明，向量组
+                <img src="image207.gif">
+                线性无关。
+            </p>
+            <p>
+                <b>
+                    证明：
+                </b>
+                （反证法）假设
+                <img src="image207.gif">
+                线性相关，则其中必然有
+                <img src="image208.gif">
+                个向量线性无关，不妨设
+                <img src="image209.gif">
+                线性无关，而任意
+                <img src="image210.gif">
+                必线性相关，且有：
+            </p>
+            <p>
+                <img src="image211.gif">
+            </p>
+            <p>
+                <img src="image212.gif">
+                （ 2 ）
+            </p>
+            <p>
+                （ 2 ）式两边乘
+                <img src="image206.gif">
+                ，又有：
+                <img src="image213.gif">
+                得到：
+            </p>
+            <p>
+                <img src="image214.gif">
+            </p>
+            <p>
+                <img src="image215.gif">
+                （ 3 ）
+            </p>
+            <p>
+                （ 2 ）式两边乘
+                <img src="image216.gif">
+                ，又得：
+            </p>
+            <p>
+                <img src="image217.gif">
+                （ 4 ）
+            </p>
+            <p>
+                将（ 3 ）式与（ 4 ）是相减，得：
+            </p>
+            <p>
+                <img src="image218.gif">
+            </p>
+            <p>
+                （ 5 ）
+            </p>
+            <p>
+                又因为，
+                <img src="image204.gif">
+                是互异的特征值，所以，
+                <img src="image219.gif">
+                ，
+            </p>
+            <p>
+                且
+                <img src="image209.gif">
+                线性无关，所以，由（ 5 ）式得出：
+            </p>
+            <p>
+                <img src="image220.gif">
+            </p>
+            <p>
+                代入（ 2 ）式得：
+                <img src="image221.gif">
+                ，
+                <img src="image222.gif">
+                是特征向量所以
+                <img src="image223.gif">
+                ， 矛盾。所以，
+                <img src="image210.gif">
+                线性无关。
+            </p>
+            <p>
+                同理可以得到
+                <img src="image207.gif">
+                线性无关。
+            </p>
+            <p>
+                问题 2 ：证明：当
+                <img src="image206.gif">
+                的所有特征值均小于 1 时，
+                <img src="image224.gif">
+                可逆
+            </p>
+            <p>
+                <b>
+                    证明：
+                </b>
+                （反证法）假设当
+                <img src="image206.gif">
+                的所有特征值均小于 1 时，
+                <img src="image224.gif">
+                不可逆，则有
+            </p>
+            <p>
+                则方程
+                <img src="image225.gif">
+                有非零解，设给非零解为
+                <img src="image226.gif">
+                则有：
+            </p>
+            <p>
+                <img src="image227.gif">
+            </p>
+            <p>
+                则 1 是
+                <img src="image206.gif">
+                的有特征值，矛盾。
+            </p>
+            <p>
+                问题 3 ： 证明
+                <img src="image228.gif">
+                与对角矩阵相似，当
+                <img src="image229.gif">
+                为
+                <img src="image206.gif">
+                的
+                <img src="image230.gif">
+                重特征值，则
+                <img src="image231.gif">
+                。
+            </p>
+            <p>
+                证明： 由
+                <img src="image206.gif">
+                与对角矩阵相似得到：
+            </p>
+            <p>
+                <img src="image206.gif">
+                的每个
+                <img src="image232.gif">
+                重特征值
+                <img src="image233.gif">
+                有
+                <img src="image232.gif">
+                个线性无关的特征向量，所以
+                <img src="image206.gif">
+                的
+                <img src="image230.gif">
+                重特征值
+                <img src="image229.gif">
+                有
+                <img src="image230.gif">
+                个线性无关的特征向量，则方程
+                <img src="image234.gif">
+                的基础解系中有
+                <img src="image230.gif">
+                个线性无关的解向量， 又由，系数矩阵
+                <img src="image235.gif">
+                的秩为
+                <img src="image236.gif">
+                ，即
+                <img src="image231.gif">
+            </p>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    4
+                </b>
+                <b>
+                    ：
+                </b>
+                相似矩阵性质解析
+            </p>
+            <p>
+                <b>
+                    答：
+                </b>
+                1 ）若
+                <img src="image237.gif">
+                阶矩阵
+                <img src="image206.gif">
+                与
+                <img src="image238.gif">
+                相似
+                <img src="image239.gif">
+                与
+                <img src="image238.gif">
+                特征多项式相同：
+            </p>
+            <p>
+                由
+                <img src="image206.gif">
+                与
+                <img src="image238.gif">
+                相似，则存在可逆矩阵
+                <img src="image240.gif">
+                ，使得
+                <img src="image241.gif">
+            </p>
+            <p>
+                <img src="image242.gif">
+            </p>
+            <p>
+                2） 特征值相同：
+            </p>
+            <p>
+                由上，特征多项式相同，则特征值相同
+            </p>
+            <p>
+                3 ）
+                <img src="image243.gif">
+            </p>
+            <p>
+                <img src="image244.gif">
+            </p>
+            <p>
+                4 ）具有相同的可逆性，且可逆时，其逆矩阵也相似：
+            </p>
+            <p>
+                由
+                <img src="image243.gif">
+            </p>
+            <p>
+                则当
+                <img src="image206.gif">
+                可逆，则
+                <img src="image245.gif">
+            </p>
+            <p>
+                得
+                <img src="image246.gif">
+            </p>
+            <p>
+                则当
+                <img src="image206.gif">
+                不可逆，则
+                <img src="image247.gif">
+            </p>
+            <p>
+                得
+                <img src="image248.gif">
+            </p>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    5
+                </b>
+                <b>
+                    ：
+                </b>
+                一般的
+                <img src="image237.gif">
+                阶方阵特征值特征向量与实对称矩阵特征值特征向量性质不同
+            </p>
+            <p>
+                <b>
+                    答：
+                </b>
+                1 ） 特征值：
+            </p>
+            <p>
+                一般的
+                <img src="image237.gif">
+                阶方阵的特征值：可以是实数或复数；
+            </p>
+            <p>
+                实对称矩阵的特征值：都是实数。
+            </p>
+            <p>
+                2 ）特征向量：
+            </p>
+            <p>
+                一般的
+                <img src="image237.gif">
+                阶方阵的特征向量：不同的特征值对应的特征向量线性无关，重根对应的线性无关的特征向量的个数大于等于一小于等于该重数；
+            </p>
+            <p>
+                实对称矩阵的特征向量：不同特征值对应的特征向量相互正交，重根所对应的线性无关的特征向量的个数等于重数。
+            </p>
+            <p>
+                3 ）对角化：
+            </p>
+            <p>
+                一般的
+                <img src="image237.gif">
+                阶方阵：不一定能相似对角化。
+            </p>
+            <p>
+                实对称矩阵：一定可以正交相似对角化。
+            </p>
+    </body>
+
+</html>

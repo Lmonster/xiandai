@@ -1,0 +1,312 @@
+<html>
+    
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+        />
+        <meta http-equiv=Content-Type content="text/html; charset=utf-8">
+        <title>
+            线性代数
+        </title>
+        <style type="text/css">
+            p{font-family: 宋体;font-size: 16px; line-height: 1.5;padding: 5px;} img{border:
+            0}
+        </style>
+    </head>
+    
+    <body>
+        <h1>   
+                第三章 矩阵的秩与线性方程组
+            </h1>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    1
+                </b>
+                <b>
+                    ：
+                </b>
+                矩阵的初等变换于矩阵的秩有什么关系？
+            </p>
+            <p>
+                <b>
+                    答：
+                </b>
+                对矩阵施行初等变换后得到的矩阵与原矩阵等价，而等价的矩阵有相同的等价标准型，从而有相同的秩。换言之，对矩阵施行初等变换不改变秩。于是利用这一性质，可以求出矩阵的秩。其过程可以描述为
+                <img src="image001.gif">
+                经过一系列初等变换化为阶梯形，阶梯形中非零行的行数即为矩阵的秩。
+            </p>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    2
+                </b>
+                <b>
+                    ：
+                </b>
+                线性方程组接的判定与矩阵的秩之间有何关系？
+            </p>
+            <p>
+                <b>
+                    答：
+                </b>
+                齐次线性方程组
+                <img src="image111.gif">
+                必有解：
+            </p>
+            <p>
+                当
+                <img src="image112.gif">
+                时，只有零解；
+            </p>
+            <p>
+                当
+                <img src="image113.gif">
+                时，有非零解。
+            </p>
+            <p>
+                非齐次线性方程组
+                <img src="image114.gif">
+                分有解和无解的情况，有解时分有唯一解还是无穷多解：
+            </p>
+            <p>
+                <img src="image114.gif">
+                无解
+                <img src="image115.gif">
+            </p>
+            <p>
+                <img src="image114.gif">
+                有解
+                <img src="image116.gif">
+            </p>
+            <p>
+                有解的情况下：
+                <img src="image117.gif">
+                有唯一解；
+            </p>
+            <p>
+                <img src="image117.gif">
+                有无穷多解。
+            </p>
+            <p>
+                其中
+                <img src="image118.gif">
+                为增广矩阵。
+            </p>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    3
+                </b>
+                <b>
+                    ：
+                </b>
+                已知
+                <img src="image001.gif">
+                是
+                <img src="image119.gif">
+                矩阵，
+                <img src="image009.gif">
+                是
+                <img src="image120.gif">
+                矩阵，且
+                <img src="image121.gif">
+                ，证明：
+                <img src="image122.gif">
+            </p>
+            <p>
+                <b>
+                    分析：
+                </b>
+                由于齐次线性方程组的基础解系中解向量的个数和系数矩阵的秩有直接关系，因此关于矩阵的秩的问题可以转化为齐次线性方程组的问题来处理。
+            </p>
+            <p>
+                <b>
+                    证明：
+                </b>
+                将
+                <img src="image009.gif">
+                按列分块
+                <img src="image123.gif">
+                ，则由题可知
+            </p>
+            <p>
+                <img src="image124.gif">
+            </p>
+            <p>
+                即
+                <img src="image125.gif">
+            </p>
+            <p>
+                换言之，
+                <img src="image009.gif">
+                的每个列向量均是齐次线性方程组
+                <img src="image126.gif">
+                的解，即
+                <img src="image127.gif">
+                均可由
+                <img src="image126.gif">
+                的一组基础解系线性表示，设
+                <img src="image109.gif">
+                ，则
+                <img src="image128.gif">
+                为
+                <img src="image126.gif">
+                的一组基础解系。
+            </p>
+            <p>
+                则
+                <img src="image129.gif">
+                ，故
+                <img src="image130.gif">
+                ，从而
+                <img src="image122.gif">
+            </p>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    4
+                </b>
+                <b>
+                    ：
+                </b>
+                设非齐次线性方程组
+                <img src="image131.gif">
+                ，其中
+                <img src="image001.gif">
+                是
+                <img src="image119.gif">
+                矩阵，则
+                <img src="image131.gif">
+                有唯一解的充要条件是（ ）
+            </p>
+            <p>
+                (A)
+                <img src="image132.gif">
+                ； (B)
+                <img src="image133.gif">
+                ； (C)
+                <img src="image134.gif">
+                ； (D)
+                <img src="image133.gif">
+                , 且
+                <img src="image135.gif">
+                为
+                <img src="image001.gif">
+                的列向量的线性组合 .
+            </p>
+            <p>
+                <b>
+                    分析：
+                </b>
+                <img src="image136.gif">
+                ，故 Crame 法则失效；
+            </p>
+            <p>
+                (A)
+                <img src="image137.gif">
+                ( 或
+                <img src="image138.gif">
+                ): 若
+                <img src="image133.gif">
+                , 有唯一解；若
+                <img src="image139.gif">
+                , 无解。 (A) 错误 ;
+            </p>
+            <p>
+                (B)
+                <img src="image140.gif">
+                ( 或
+                <img src="image141.gif">
+                ): 若
+                <img src="image142.gif">
+                , 有唯一解；若
+                <img src="image143.gif">
+                , 无解。 (B) 错误 ;
+            </p>
+            <p>
+                (C)
+                <img src="image144.gif">
+                ( 或
+                <img src="image145.gif">
+                ): 若
+                <img src="image146.gif">
+                , 有解 , 且
+                <img src="image147.gif">
+                , 有唯一解 ;
+                <img src="image148.gif">
+                , 有无穷多解 ; 若
+                <img src="image149.gif">
+                , 无解。 (C) 错误 ;
+            </p>
+            <p>
+                (D) 由
+                <img src="image131.gif">
+                可知
+                <img src="image135.gif">
+                可由
+                <img src="image001.gif">
+                的列向量的线性表示，另外
+                <img src="image131.gif">
+                有唯一解可知
+                <img src="image131.gif">
+                的导出组
+                <img src="image126.gif">
+                有唯一解（即零解），从而
+                <img src="image001.gif">
+                列满秩，即
+                <img src="image112.gif">
+                ，故
+                <b>
+                    (D)
+                </b>
+                <b>
+                    正确
+                </b>
+                。
+            </p>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    5
+                </b>
+                <b>
+                    ：
+                </b>
+                求矩阵的秩有哪些方法？
+            </p>
+            <p>
+                <b>
+                    答：
+                </b>
+                求矩阵的秩有以下几种方法：
+            </p>
+            <p>
+                (1) 利用定义，计算矩阵的子式（最高阶非零子式的阶数即为矩阵的秩）；
+            </p>
+            <p>
+                (2) 对矩阵做初等变换（因为初等变换不改变矩阵的秩，将其化为标准型或阶梯形，非零行的行数即为矩阵的秩）
+            </p>
+            <p>
+                (3) 利用矩阵的秩的性质（
+                <img src="image150.gif">
+                <img src="image151.gif">
+                ，其中
+                <img src="image152.gif">
+                均为可逆矩阵）
+            </p>
+            <p>
+                (4) 利用矩阵的三秩不变（秩 = 行秩 = 列秩，通过求行或列向量组的秩来判定）。
+            </p>
+    </body>
+
+</html>

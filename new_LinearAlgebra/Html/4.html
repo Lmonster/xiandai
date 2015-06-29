@@ -1,0 +1,349 @@
+<html>
+    
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+        />
+        <meta http-equiv=Content-Type content="text/html; charset=utf-8">
+        <title>
+            线性代数
+        </title>
+        <style type="text/css">
+            p{font-family: 宋体;font-size: 16px; line-height: 1.5;padding: 5px;} img{border:
+            0}
+        </style>
+    </head>
+    
+    <body>
+        <h1>
+                第四章 向量空间
+            </h1>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    1
+                </b>
+                <b>
+                    ：
+                </b>
+                判别向量
+                <img src="image153.gif">
+                是否可以用向量组
+                <img src="image154.gif">
+                线性表示的两种方法？
+            </p>
+            <p>
+                <b>
+                    举例说明：
+                </b>
+            </p>
+            <p>
+                例：已知
+                <img src="image155.gif">
+                ，
+                <img src="image156.gif">
+                <br>
+                由定义可知，向量
+                <img src="image153.gif">
+                是否可以用向量组
+                <img src="image154.gif">
+                线性表示取决于是否存在这一组系数
+                <img src="image157.gif">
+                ，可以有
+                <img src="image158.gif">
+                ，（ 1 ）
+                <br>
+                即，
+                <img src="image153.gif">
+                是否可以用
+                <img src="image159.gif">
+                的线性组合表示出来。
+                <br>
+                由（ 1 ）式，得到；
+                <br>
+                <img src="image160.gif">
+            </p>
+            <p>
+                显然，
+                <img src="image153.gif">
+                是否可以用
+                <img src="image159.gif">
+                的线性组合表示出来，就转化为上述线性方程组是否有解的问题，如果这个线性方程组有唯一解，则，表示方式唯一。
+            </p>
+            <p>
+                因此，求解向量
+                <img src="image153.gif">
+                是否可以用向量组
+                <img src="image154.gif">
+                线性表示的两种方法：
+            </p>
+            <p>
+                假设向量都是列向量：
+            </p>
+            <p>
+                法一： 构造
+                <img src="image161.gif">
+                ，
+            </p>
+            <p>
+                求解
+                <img src="image162.gif">
+                的线性方程组
+                <img src="image163.gif">
+            </p>
+            <p>
+                法二： 构造
+                <img src="image161.gif">
+                ，
+                <img src="image164.gif">
+            </p>
+            <p>
+                求
+                <img src="image165.gif">
+                <img src="image166.gif">
+            </p>
+            <p>
+                当向量是行向量时，将之转化为求转置即可。
+            </p>
+            <p>
+                这两种方法实质都是通过判断方程组解的情况判断线性表示的问题。
+            </p>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    2
+                </b>
+                <b>
+                    ：
+                </b>
+                求所有如下列形式的向量构成集合的一组基
+            </p>
+            <p>
+                <b>
+                    答：
+                </b>
+                这类问题实质上就是求向量组的极大无关组的问题。
+            </p>
+            <p>
+                <img src="image167.gif">
+            </p>
+            <p>
+                求向量组的极大无关组，
+            </p>
+            <p>
+                构造
+                <img src="image168.gif">
+                ，其行阶梯最简行为
+                <img src="image169.gif">
+            </p>
+            <p>
+                由此，看出，第一列和第二列构成一个最大无关组，
+            </p>
+            <p>
+                所以，构成集合的一组基为：
+                <img src="image170.gif">
+            </p>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    3
+                </b>
+                <b>
+                    ：
+                </b>
+                区别的向量组等价和矩阵等价。
+            </p>
+            <p>
+                <b>
+                    答：
+                </b>
+                向量组的等价是指向量组之间可以相互表示；而矩阵等价是指一个矩阵通过初等变换可以得到另外一个矩阵。两者看似没有联系，实质是有联系的，下面以列向量为例：
+            </p>
+            <p>
+                假设有两个向量组
+                <img src="image171.gif">
+                等价，则，可以用
+                <img src="image172.gif">
+                向量组内的 4 个向量的线性组合将
+                <img src="image173.gif">
+                向量组内的 5 个向量分别表示出，反之亦然；
+            </p>
+            <p>
+                <img src="image174.gif">
+            </p>
+            <p>
+                构造
+                <img src="image175.gif">
+            </p>
+            <p>
+                必然可以通过初等列变换，将
+            </p>
+            <p>
+                <img src="image176.gif">
+            </p>
+            <p>
+                <img src="image177.gif">
+            </p>
+            <p>
+                则，
+                <img src="image178.gif">
+            </p>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    4
+                </b>
+                <b>
+                    ：
+                </b>
+                为什么列向量组可以通过列向量组构成的矩阵的初等行变换找出矩阵各列的极大无关组。
+                <br>
+                <b>
+                    答：
+                </b>
+                举例说明，
+                <br>
+                设，
+                <img src="image179.gif">
+                <br>
+                求
+                <img src="image180.gif">
+                的极大无关组。
+            </p>
+            <p>
+                构造
+            </p>
+            <p>
+                <img src="image181.gif">
+            </p>
+            <p>
+                构造组合系数
+                <img src="image182.gif">
+                使得，
+                <img src="image183.gif">
+                ，
+            </p>
+            <p>
+                从而判断
+                <img src="image184.gif">
+                的线性相关性，同理也可以构造任意向量组内向量的类似组合。由，
+                <img src="image183.gif">
+                ，可以得到线性方程组：
+            </p>
+            <p>
+                <img src="image185.gif">
+                ，即
+                <img src="image186.gif">
+            </p>
+            <p>
+                求系数矩阵的行阶梯最简行，
+            </p>
+            <p>
+                <img src="image187.gif">
+            </p>
+            <p>
+                则
+                <img src="image188.gif">
+                和
+                <img src="image186.gif">
+                是同解方程组，
+            </p>
+            <p>
+                所以，
+                <img src="image189.gif">
+            </p>
+            <p>
+                可以从对应的更简单的向量组
+                <img src="image190.gif">
+                看出，第一列，第三列，和第五列是线性无关的向量，对应回
+                <img src="image172.gif">
+                向量组，即，
+                <img src="image191.gif">
+                为向量组的极大无关组。
+            </p>
+            <p>
+                <b>
+                    问题
+                </b>
+                <b>
+                    5
+                </b>
+                <b>
+                    ：
+                </b>
+                举例说明齐次线性方程组解的结构。
+            </p>
+            <p>
+                <b>
+                    答：
+                </b>
+                设：
+                <img src="image192.gif">
+            </p>
+            <p>
+                系数矩阵为：
+                <img src="image193.gif">
+            </p>
+            <p>
+                则其行阶梯最简行
+                <img src="image194.gif">
+            </p>
+            <p>
+                可得同解方程组为：
+                <img src="image195.gif">
+            </p>
+            <p>
+                于是，有：
+                <img src="image196.gif">
+            </p>
+            <p>
+                由定义可知，解空间的基础解系为：
+                <img src="image197.gif">
+                ；
+            </p>
+            <p>
+                <img src="image198.gif">
+                满足一下三点：
+            </p>
+            <p>
+                l
+                <img src="image199.gif">
+                是
+                <img src="image200.gif">
+                的解，显然成立；
+            </p>
+            <p>
+                l 所有的
+                <img src="image200.gif">
+                的解都可以用
+                <img src="image199.gif">
+                的线性组合表示出；
+            </p>
+            <p>
+                l
+                <img src="image199.gif">
+                线性无关。要证
+                <img src="image199.gif">
+                线性无关，及满足
+                <img src="image201.gif">
+                只有零解
+            </p>
+            <p>
+                因为
+                <img src="image202.gif">
+                ，只有当
+                <img src="image203.gif">
+                时才有零解，所有，
+                <img src="image199.gif">
+                线性无关。
+            </p>
+    </body>
+
+</html>
