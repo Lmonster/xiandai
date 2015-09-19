@@ -14,5 +14,6 @@
 
 @property (strong ,nonatomic) UIButton *view_2;
 
+@property (strong ,nonatomic) UIButton *view_3;
 
 @end

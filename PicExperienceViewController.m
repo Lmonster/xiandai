@@ -6,6 +6,7 @@
 //  Copyright (c) 2015年 付国强. All rights reserved.
 //
 
+#import "moreInstanceViewController.h"
 #import "PicExperienceViewController.h"
 
 
@@ -24,6 +25,7 @@
     [super viewWillAppear:animated];
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(pushGuide) name:@"pushGuide" object:nil];
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(restorePic) name:@"restorePic" object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(pushMoreInstance) name:@"moreInstance" object:nil];
     [MobClick beginLogPageView:@"page_3"];
 }
 
@@ -39,7 +41,7 @@
                                                  name:@"UIKeyboardWillShowNotification"
                                                object:nil];
     
-    self.navigationItem.rightBarButtonItem = [[UIBarButtonItem alloc] initWithTitle:@"菜单"
+    self.navigationItem.rightBarButtonItem = [[UIBarButtonItem alloc] initWithTitle:@"更多"
                                                                               style:UIBarButtonItemStyleDone
                                                                              target:self
                                                                              action:@selector(pushDrawer)];
@@ -239,6 +241,11 @@
             tempTextFiele = [_TFArray objectAtIndex:i*4+j];
             tempTextFiele.text = nil;
         }
+}
+
+- (void)pushMoreInstance {
+    moreInstanceViewController *vc = [moreInstanceViewController new];
+    [self.navigationController pushViewController:vc animated:YES];
 }
 
 #pragma mark --

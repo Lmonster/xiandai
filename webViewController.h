@@ -13,4 +13,5 @@
 
 - (void)beginLoad:(NSString *)fileName;
 
+- (void)loadURLString:(NSString *)URLString;
 @end

@@ -30,6 +30,11 @@
     [webView loadRequest:[NSURLRequest requestWithURL:url]];
 }
 
+- (void)loadURLString:(NSString *)URLString {
+    [self.view addSubview:webView];
+    NSURL *url = [NSURL URLWithString:URLString];
+    [webView loadRequest:[NSURLRequest requestWithURL:url]];
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.

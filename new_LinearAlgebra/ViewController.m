@@ -15,6 +15,7 @@
  */
 
 #import "ViewController.h"
+#import "updatePicViewController.h"
 #import "videoListViewController.h"
 #import "Header.h"
 #import "ForumViewController.h"
@@ -149,6 +150,7 @@
 
 
 -(NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section{
+//    return 9;
     return 7;
 }
 
@@ -254,6 +256,11 @@
     }else if (selectedItem == 6){
         ExerciseViewController *viewController = [[ExerciseViewController alloc] init];
         [self performSelector:@selector(pushView:) withObject:viewController afterDelay:0.25];
+    }else if (selectedItem == 7){
+//        updatePicViewController *viewController =[[updatePicViewController alloc] init];
+//        [self performSelector:@selector(pushView:) withObject:viewController afterDelay:0.25];
+    }else if (selectedItem == 8){
+        
     }
 }
 

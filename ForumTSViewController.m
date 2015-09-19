@@ -104,7 +104,6 @@
     
     cell.layer.transform = transform;
     cell.layer.anchorPoint = CGPointMake(0, 0.5);
-    
     // 3. 定义cell的最终状态，并提交动画
     [UIView beginAnimations:@"transform" context:NULL];
     [UIView setAnimationDuration:0.5];
